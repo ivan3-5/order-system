@@ -37,7 +37,7 @@ This project is a simple Ordering Management System designed to streamline the p
     
 3. **Set up the database:**
 
-- Import the `database.sql` file into your MySQL database.
+- Import the `order_management.sql` file into your MySQL database.
 - Update the database connection settings in `DbConnector.php`.
 
 4. **Configure the web server:**
